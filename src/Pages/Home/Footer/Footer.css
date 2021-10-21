@@ -1,0 +1,22 @@
+.quick-links p a {
+	list-style: none;
+	color: rgb(200, 200, 200);
+	margin-top: 40px;
+}
+
+.footer {
+	width: 60%;
+}
+
+.footer-heading {
+	margin-top: 50px;
+	margin-bottom: 25px;
+}
+
+h5 {
+	font-weight: bolder;
+}
+small {
+	font-size: 5px;
+	color: rgb(131, 131, 131);
+}

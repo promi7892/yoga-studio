@@ -1,0 +1,71 @@
+[
+	{
+		"id": 1,
+		" key": 51,
+		"name": "Yoga For Beginners",
+		"img": "https://image.freepik.com/free-photo/yoga-group-classes-inside-gym_1303-14788.jpg",
+		"catagory": "Pilates",
+		"date": "Tue, Wed, Fri",
+		"time": "8:00-10:00 pm",
+		"instructor": "Willson",
+		"description": "In India, haṭha yoga is associated in popular tradition with the Yogis of the Natha Sampradaya through its traditional founder Matsyendranath, who is celebrated as a saint in both Hindu and Buddhist tantric and haṭha yoga schools. Almost all hathayogic texts belong to the Nath siddhas, and the important ones are credited to Matsyendranath's disciple, Gorakhnath or Gorakshanath.[4] According to the Dattatreya Yoga Śastra, there are two forms of haṭha yoga: one practiced by Yajñavalkya consisting of the eight limbs of yoga, and another practiced by Kapila consisting of eight mudras. The oldest dated text so far found to describe haṭha yoga, the 11th-century Amṛtasiddhi, comes from a tantric Buddhist milieu.[5] The oldest texts to use the terminology of hatha are also Vajrayana Buddhist.[3] Later haṭha yoga texts adopt the practices of haṭha yoga mudras into a Saiva system, melding it with Layayoga methods which focus on the raising of kuṇḍalinī through energy channels and chakras. In the 20th century, a development of haṭha yoga, focusing particularly on asanas (the physical postures), became popular throughout the world as a form of physical exercise. This modern form of yoga is now widely known simply as "
+	},
+
+	{
+		"id": 2,
+		" key": 52,
+		"name": "Balance Body & Mind",
+		"img": "https://i.ibb.co/H2bVcMb/7.jpg",
+		"catagory": "Hatha",
+		"date": "Tue, Wed, Sat",
+		"instructor": "Additon",
+		"time": "8:00-10:00 pm",
+
+		"description": "Iyengar Yoga is a form of yoga as exercise with a focus on the structural alignment of the physical body through the practice of asanas. Iyengar Yoga became an institution with the 1975 founding of the Ramamani Iyengar Memorial Yoga Institute in Pune, named in memory of his wife.[3] A further major step was the founding of the first of many institutes abroad, the Iyengar Yoga Institute (IYI) in Maida Vale, London, in 1983.[3] The old IYI building was replaced in 1994, and the new one was officially opened by Iyengar in person in 1997. Iyengar Yoga had however been taught in London before that, in evening classes run by the Inner London Education Authority starting in 1968. From the start, Iyengar personally assessed the quality of the teaching every year.[11] The first Iyengar Yoga Institute in America was founded in San Francisco in 1976 by Mary Dunn, Judith Lasater, and others; Iyengar visited the area that year.[12] Further Iyengar Yoga Institutes have been opened in 1984 in Los Angeles,[13] and in 1987 in New York.[14][15] National Iyengar Yoga Associations have been created in Argentina, Australia, Austria, Belgium, Canada, Czechia, Chile, China, Denmark, France, Germany, Israel, Italy, Japan, the Netherlands, Mexico, Poland, Russia, Spain, South Africa, Sweden, Switzerland and New Zealand"
+	},
+	{
+		"id": 3,
+		" key": 53,
+		"name": "Increased Flexibility",
+		"img": "https://i.ibb.co/PwZjP5F/3.jpg",
+		"catagory": "Yoga Dance",
+		"date": "Sat, Wed, Fri",
+		"instructor": "Amelia",
+		"time": "8:00-10:00 pm",
+
+		"description": "Kundalini yoga derives from kundalini, defined in Vedantic culture as energy that lies dormant at the base of the spine until it is activated and channeled upward through the chakras in the process of spiritual perfection. Kundalini is believed by adherents to be power associated with the divine feminine.Although Kundalini yoga is practiced around the world, its origin is unknown. The concept of Kundalini energy has been around for centuries and was mentioned in ancient Vedic texts from 1,000 B.C. Kundalini yoga is most associated with Yogi Bhajan, a yoga teacher from Pakistan. He’s credited with introducing the practice to Western countries in the 1960s. The term “Kundalini” comes from the Sanskrit word “kundal,” which means “circular.” It also refers to a coiled snake. And according to practitioners, Kundalini energy is like that coiled snake: It sits at the base of your spine, sleeping and unaroused. Kundalini yoga is practiced to activate this energy, which allows it to move up and through the chakras along your spine."
+	},
+	{
+		"id": 4,
+		" key": 59,
+		"name": " Improves Body Posture",
+		"img": "https://i.ibb.co/1zMJ61D/4.jpg",
+		"catagory": "Vinyasa",
+		"date": "Tue, Wed, Fri",
+		"time": "8:00-10:00 pm",
+		"instructor": "Maria",
+		"description": "Anusara yoga focuses on experiencing bliss and joy in your yoga practice and your daily life.Anusara yoga is a modern-day Hatha yoga system founded by John.The Anusara style emphasizes a set of Universal Principles of Alignment which underlie all of the physical asanas and are connected to philosophical aspects of the practice. The school's ideology is grounded in a Tantric philosophy of intrinsic goodness.The term Anusara (a-nu-sar-a), means flowing with Grace,flowing with Nature and following your heart as interpreted from the Sanskrit anusāra (अनुसार), meaning custom, usage, natural state or condition. Instructors who are certified to teach Anusara are exclusively associated with the Anusara School of Hatha Yoga, formed in 2012, after John Friend and Anusara Inc. were embroiled in a scandal that resulted in Friend's stepping down from his role in Anusara.[2] Friend transferred all rights to the name Anusara to the newly formed school and dissolved Anusara, Inc."
+	},
+	{
+		"id": 5,
+		" key": 57,
+		"name": "Better Energy Flow",
+		"img": "https://i.ibb.co/fdfb7bH/2.jpg",
+		"catagory": "Alignment",
+		"date": "Tue, Wed, Fri",
+		"time": "8:00-10:00 pm",
+		"instructor": "Elana",
+		"description": "Restorative Yoga is the practice of asanas, each held for longer than in conventional yoga as exercise classes, often with the support of props such as folded blankets, to relax the body, reduce stress, and often to prepare for pranayama.Restorative yoga is a restful practice that is all about slowing down and opening your body through passive stretching. If you take a restorative class, you may hardly move at all, doing just a few postures over the course of an hour. Restorative yoga is a completely different experience than most other styles of yoga. Learn about what restorative yoga is and why it's important to slow down and embrace the power of rest."
+	},
+	{
+		"id": 6,
+		" key": 58,
+		"name": "Increased body awareness",
+		"img": "https://i.ibb.co/2k3Z2sN/6.jpg",
+		"catagory": "Kundalini",
+		"date": "Mon, Thu, Fri",
+		"time": "8:00-10:00 pm",
+		"instructor": "Meredith ",
+		"description": "Prenatal Yoga is here to hold the space for you as you grow into this new role of parent. We hear and see the challenges you face with physical and emotional discomforts of pregnancy and the postpartum period. There are many different styles of yoga — some more strenuous than others. Prenatal yoga, hatha yoga and restorative yoga are the best choices for pregnant women. Talk to the instructor about your pregnancy before starting any other yoga class. Be careful to avoid hot yoga, which involves doing vigorous poses in a room heated to higher temperatures. For example, during the Bikram form of hot yoga, the room is heated to approximately 105 F (40 C) and has a humidity of 40 percent. Hot yoga can raise your body temperature too much, causing a condition known as hyperthermia."
+	}
+]
