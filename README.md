@@ -1,4 +1,5 @@
-# Yoga studio aim to create space for transformational life experiences both on and off the mat. We do this by asking one transcendent question. What is your WHY? 
+# Yoga studio 
+This website Aim to create space for transformational life experiences both on and off the mat. We do this by asking one transcendent question. What is your WHY? 
 Our focus is on you, the student.
 
 The features user will find in the website are 
